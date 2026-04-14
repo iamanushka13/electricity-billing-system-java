@@ -21,3 +21,13 @@ This project demonstrates concepts of **Object-Oriented Programming (OOP)**, **G
 - **Database:** MySQL 
 - **IDE:** NetBeans 
 
+## 📷 Screenshots
+
+### Login Page
+![Login](images/loginpage.png)
+
+### Admin Dashboard
+![Dashboard].(images/Admin login options.png).
+
+### Bill Generation
+![Bill](images/Generate Bill.png)
