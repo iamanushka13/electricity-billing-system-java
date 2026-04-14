@@ -20,3 +20,4 @@ This project demonstrates concepts of **Object-Oriented Programming (OOP)**, **G
 - **GUI:** Java Swing (AWT)  
 - **Database:** MySQL 
 - **IDE:** NetBeans 
+
